@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e87ad4-7a74-4961-817a-7bc0b13bd072" name="Default Changelist" comment="" />
+    <list default="true" id="85e87ad4-7a74-4961-817a-7bc0b13bd072" name="Default Changelist" comment="【雪飞每天的代码思考上床到github，以后继续保持对问题的思考实践】--李雪飞--2020年09月12日19:12:30" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,12 +120,24 @@
       <workItem from="1598624359100" duration="10473000" />
       <workItem from="1599096130758" duration="200000" />
       <workItem from="1599301034905" duration="5309000" />
-      <workItem from="1599808530182" duration="8138000" />
+      <workItem from="1599808530182" duration="8479000" />
     </task>
+    <task id="LOCAL-00001" summary="【雪飞每天的代码思考上床到github，以后继续保持对问题的思考实践】--李雪飞--2020年09月12日19:12:30">
+      <created>1599909159786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599909159786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="【雪飞每天的代码思考上床到github，以后继续保持对问题的思考实践】--李雪飞--2020年09月12日19:12:30" />
+    <option name="LAST_COMMIT_MESSAGE" value="【雪飞每天的代码思考上床到github，以后继续保持对问题的思考实践】--李雪飞--2020年09月12日19:12:30" />
   </component>
   <component name="WindowStateProjectService">
     <state x="211" y="23" key="#Project_Structure" timestamp="1596006410080">
@@ -261,6 +273,10 @@
     <state x="221" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1596006323423" />
     <state x="221" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1599096209704" />
     <state x="221" y="23" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1599096156441" />
+    <state x="323" y="142" key="Vcs.Push.Dialog.v2" timestamp="1599909188976">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="323" y="142" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1599909188976" />
     <state x="461" y="158" width="525" height="516" key="extract.method.dialog" timestamp="1595553901418">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
